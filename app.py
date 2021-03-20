@@ -6,8 +6,7 @@ import random
 
 app = Flask(__name__)
 
-onlyfiles = [f for f in listdir('E:/Projects/Python_Projects/PicturesOfMario/imgs/') if isfile(join('E:/Projects/Python_Projects/PicturesOfMario/imgs/', f))]
-print(os.getcwd())
+
 @app.route('/')
 def index():
     return render_template('index.html')
