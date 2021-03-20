@@ -12,9 +12,11 @@ app = Flask(__name__)
 def index():
     return render_template('index.html', passed="variablename")
 
-@app.route('/sample')
+@app.route('/api/v1/sample')
 def sample():
-    return send_file('./imgs/21.jpg', mimetype='image/jpg')
+    onlyfiles = [f for f in listdir('./imgs') if isfile(join('./imgs',f))]
+    image_source = "./imgs/{0}".format(random.choice(onlyfiles))
+    return send_file(image_source, mimetype='image/jpg')
 
 @app.route('/get_mario',methods=['GET'])
 def return_mario():
