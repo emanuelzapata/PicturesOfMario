@@ -11,14 +11,12 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/api/v1/marioname')
-def marion_name():
-    return "mario"
-
 @app.route('/api/v1/return_image',methods=['GET'])
 def get_image():
-    onlyfiles = [f for f in listdir(os.getcwd()+"\\imgs\\") if isfile(join(os.getcwd()+"\\imgs\\",f))]
-    image_source = "{0}\\imgs\\{1}".format(os.getcwd(),random.choice(onlyfiles))
+    #onlyfiles = [f for f in listdir(os.getcwd()+"\\imgs\\") if isfile(join(os.getcwd()+"\\imgs\\",f))]
+    onlyfiles = [f for f in listdir('./imgs') if isfile(join('./imgs',f))]
+    #image_source = "{0}\\imgs\\{1}".format(os.getcwd(),random.choice(onlyfiles))
+    image_source = "./imgs/{0}".format(random.choice(onlyfiles))
     return send_file(image_source, mimetype='image/jpg')
 
 
