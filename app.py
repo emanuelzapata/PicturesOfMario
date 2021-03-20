@@ -12,20 +12,6 @@ app = Flask(__name__)
 def index():
     return render_template('index.html', passed="variablename")
 
-@app.route('/generate_json')
-def generate_json():
-    data = {}
-    data['marios'] = []
-    for i in range(44):
-        data['marios'].append(  {
-            "imageID": i+1,
-            "rarity": 10,
-            "era": "post weight loss"
-        })
-    with open('marios.json', 'w') as outfile:
-        json.dump(data, outfile)
-    return "done"
-
 @app.route('/sample')
 def sample():
     return send_file('./imgs/21.jpg', mimetype='image/jpg')
