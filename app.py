@@ -18,7 +18,7 @@ def sample():
     image_source = "./imgs/{0}".format(random.choice(onlyfiles))
     return send_file(image_source, mimetype='image/jpg')
 
-@app.route('/get_mario',methods=['GET'])
+@app.route('/api/v1/get_mario',methods=['GET'])
 def return_mario():
     marios = json.load(open("marios.json"))
     mario = random.choice(marios)
