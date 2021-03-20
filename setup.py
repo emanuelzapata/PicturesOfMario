@@ -22,5 +22,8 @@ def get_image_by_id():
 def get_data():
     edit_json(json.load(open("data.json")))
     return {"image":1}
-    
-app.run()
+
+def main():
+    app.run()
+if __name__=="__main__":
+    main()
