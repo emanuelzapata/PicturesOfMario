@@ -28,6 +28,6 @@ def return_image():
     image_id = request.args.get('id')
     #onlyfiles = [f for f in listdir('./imgs') if isfile(join('./imgs',f))]
     image_source = "./imgs/{0}.jpg".format(image_id)
-    return send_file(image_source, mimetype='image/jpg')
+    return send_file(image_source)
 
 if __name__ == '__main__': app.run(debug=True)
