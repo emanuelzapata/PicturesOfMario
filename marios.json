@@ -1,222 +1,386 @@
-[
-  {
+{
+  "1": {
     "imageID": 1,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "2": {
     "imageID": 2,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "3": {
     "imageID": 3,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "4": {
     "imageID": 4,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "5": {
     "imageID": 5,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "6": {
     "imageID": 6,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "7": {
     "imageID": 7,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "8": {
     "imageID": 8,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "9": {
     "imageID": 9,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "10": {
     "imageID": 10,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "11": {
     "imageID": 11,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "12": {
     "imageID": 12,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "13": {
     "imageID": 13,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "14": {
     "imageID": 14,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "15": {
     "imageID": 15,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "16": {
     "imageID": 16,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "17": {
     "imageID": 17,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "18": {
     "imageID": 18,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "19": {
     "imageID": 19,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "20": {
     "imageID": 20,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "21": {
     "imageID": 21,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "22": {
     "imageID": 22,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "23": {
     "imageID": 23,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "24": {
     "imageID": 24,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "25": {
     "imageID": 25,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "26": {
     "imageID": 26,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "27": {
     "imageID": 27,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "28": {
     "imageID": 28,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "29": {
     "imageID": 29,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "30": {
     "imageID": 30,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "31": {
     "imageID": 31,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "32": {
     "imageID": 32,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "33": {
     "imageID": 33,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "34": {
     "imageID": 34,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "35": {
     "imageID": 35,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "36": {
     "imageID": 36,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "37": {
     "imageID": 37,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "38": {
     "imageID": 38,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "39": {
     "imageID": 39,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "40": {
     "imageID": 40,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "41": {
     "imageID": 41,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "42": {
     "imageID": 42,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "43": {
     "imageID": 43,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
   },
-  {
+  "44": {
     "imageID": 44,
     "rarity": 10,
-    "era": "post weight loss"
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "45": {
+    "imageID": 45,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "gif"
+  },
+  "46": {
+    "imageID": 46,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "47": {
+    "imageID": 47,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "48": {
+    "imageID": 48,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "49": {
+    "imageID": 49,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "50": {
+    "imageID": 50,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "51": {
+    "imageID": 51,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "52": {
+    "imageID": 52,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "53": {
+    "imageID": 53,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "54": {
+    "imageID": 54,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "55": {
+    "imageID": 55,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "56": {
+    "imageID": 56,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "57": {
+    "imageID": 57,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "58": {
+    "imageID": 58,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "59": {
+    "imageID": 59,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "60": {
+    "imageID": 60,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "61": {
+    "imageID": 61,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "62": {
+    "imageID": 62,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "63": {
+    "imageID": 63,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "jpg"
+  },
+  "64": {
+    "imageID": 64,
+    "rarity": 10,
+    "era": "post weight loss",
+    "mediatype": "mp4"
   }
-]
+}
