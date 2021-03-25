@@ -39,12 +39,9 @@ def return_mario():
     mario = random.choice(marios)
     return jsonify(mario)
 
-@app.route('/api/v1/return_image',methods=['GET'])
-def return_image():
+@app.route('/api/v1/return_media',methods=['GET'])
+def return_media():
     image_id = request.args.get('id')
-
-    #onlyfiles = [f for f in listdir('./imgs') if isfile(join('./imgs',f))]
-    print(marios[image_id])
     image_source = "./imgs/{0}.{1}".format(image_id,marios[image_id]['mediatype'])
     return send_file(image_source)
 
